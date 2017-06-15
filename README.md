@@ -8,3 +8,5 @@ For this I have used Naive Bayes classifier for building the model and features 
 I have used Expectation Maximization algorithm after building a basic model.
 naive_bayes_implementation_mobiles_modified.py is file to look for.
 
+The challenge here which i faced is descriptions are so noisy and the seed data genaration became difficult.
+
